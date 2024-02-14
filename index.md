@@ -9,16 +9,13 @@
 ## Check TARBALL:
 
 ```
-wget -c https://cbkadal.github.io/os241/SandBox/cbkadal.tar.xz
+wget -c https://os.vlsm.org/Log/KenBalya.tar.xz.txt
 
 ```
 
 <br>
-## No TMI (Too Much Information), please! 
-You are not "<b>CBKADAL</b>," so you should not disclose your record.
-
-I have spoken!
+## This is Ken Balya's github page for OS241
 
 <br><b>
-#### REV23: Wed 14 Feb 2024 22:00
+#### REV23: Wed 14 Feb 2024 23:07
 <br>
