@@ -27,6 +27,11 @@ These commands will help you list PCI devices, view information about your CPU, 
 -> The video uploaded by NetworkChunk, on of the most popular youtube channel in the field of IT Infrastructure and Security which explains about 60 essential
 Linux commands in 10 minutes!
 
+<h2 style="color:red">WEEK 03 🚩</h2>
+
+1. [Linux - Disk and Filesystem management](https://sangkyu519.medium.com/linux-disk-and-filesystem-management-beabbcd2c05c)
+->  Covers topics like understanding disk storage types (HDD, SSD, RAM, swap area, LVM), partitioning hard disks, using the Logical Volume Manager for flexible storage management, and mounting filesystems. It also discusses creating and managing swap areas and the importance of the /etc/fstab file for mounting partitions in Linux.
+
 
 <br>
 <hr>
