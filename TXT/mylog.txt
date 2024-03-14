@@ -4,8 +4,8 @@
 ZCZC W05 30 L01 Scele/Discord related
 ZCZC W05 10 L03 Github Related
 ZCZC W05 10 L05 Quiz
-ZCZC W07 20 L07 Demo related
-ZCZC W09 120 L09 Weekly Assignments
+ZCZC W05 20 L07 Demo related
+ZCZC W05 120 L09 Weekly Assignments
 ZCZC W04 30 L01 Scele/Discord related
 ZCZC W04 10 L03 Github Related
 ZCZC W04 10 Github pages related
