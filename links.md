@@ -27,11 +27,32 @@ These commands will help you list PCI devices, view information about your CPU, 
 -> The video uploaded by NetworkChunk, on of the most popular youtube channel in the field of IT Infrastructure and Security which explains about 60 essential
 Linux commands in 10 minutes!
 
-<h2 style="color:red">WEEK 03 🚩</h2>
+<h2 style="color:red">WEEK 04 🚩</h2>
 
-1. [Linux - Disk and Filesystem management](https://sangkyu519.medium.com/linux-disk-and-filesystem-management-beabbcd2c05c)
-->  Covers topics like understanding disk storage types (HDD, SSD, RAM, swap area, LVM), partitioning hard disks, using the Logical Volume Manager for flexible storage management, and mounting filesystems. It also discusses creating and managing swap areas and the importance of the /etc/fstab file for mounting partitions in Linux.
+1. [Konsep Network Addresing](https://finditgeek.com/id/read/13/konsep-network-addressing-dalam-jaringan.html#:~:text=Singkatnya%20addressing%20adalah%20metode%20dalam,physical%20addressing%20dan%20logical%20addressing.)
+->  Covers topics about network addressing, served in Indonesian.
 
+2. [Pointers in C](https://www.youtube.com/watch?v=MIL2BK02X8A)
+->  Covers topic about C pointers for absolute beginner!
+
+<h2 style="color:red">WEEK 05 🚩</h2>
+
+1. [Virtual Memory in Opearting System](https://www.javatpoint.com/os-virtual-memory)
+->  Explains about Virtual Memory in Operating System, it's configuration, and how it works.
+
+<h2 style="color:red">WEEK 06 🚩</h2>
+
+1. [Process and Threads](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
+->  Explains about process and threads in concurrent programming, examples were given in Java.
+
+
+<h2 style="color:red">WEEK 07 🚩</h2>
+
+1. [Synchronization & Deadlock](https://www.linkedin.com/pulse/understanding-process-synchronization-operating-systems-aritra-pain/)
+->  Explains about what is synchronization and deadlock, the importance, and the common process of it.
+
+2. [Avoid Deadlocks](https://www.infoworld.com/article/2075692/avoid-synchronization-deadlocks.html)
+->  Explains about synchronization deadlocks and how a to build a consistent, defined synchronization ordering to keep your apps running.
 
 <br>
 <hr>
